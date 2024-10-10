@@ -1,0 +1,1227 @@
+Program interface initialozed 2024-05-18 15:07:53.217004
+plotter window was initialized in 2024-05-18 15:07:58.271559
+Давление value of Ширмовый ППwas plotted in 2024-05-18 15:08:06.078684
+Давление value of Паропровод на турбинуwas plotted in 2024-05-18 15:08:14.233338
+Расход value of Паропровод на турбинуwas plotted in 2024-05-18 15:08:26.148742
+log file was opened in 2024-05-18 15:08:28.324331
+log file was updated in 2024-05-18 15:08:47.734203
+log file was opened in 2024-05-18 15:09:29.292448
+Program interface initialozed 2024-05-18 15:10:38.922710
+log file was opened in 2024-05-18 15:10:55.467579
+Ширмовый ПП№1 window initialized in 2024-05-18 15:11:05.501417
+Ширмовый ПП№8 window initialized in 2024-05-18 15:11:11.517756
+log file was opened in 2024-05-18 15:11:17.611565
+Programm interface initialized in 2024-05-18 15:13:09.168455
+Ширмовый ПП№2 window initialized in 2024-05-18 15:13:22.454324
+Ширмовый ПП№3 window initialized in 2024-05-18 15:13:30.589394
+plotter window was initialized in 2024-05-18 15:13:35.519010
+Давление value of Потолочно-настенный ППwas plotted in 2024-05-18 15:13:43.596781
+log file was opened in 2024-05-18 15:13:46.428264
+log file was opened in 2024-05-18 15:14:11.477159
+log file was updated in 2024-05-18 15:14:14.135541
+log file was updated in 2024-05-18 15:14:16.815812
+log file was updated in 2024-05-18 15:14:18.806573
+log file was updated in 2024-05-18 15:14:25.871453
+log file was updated in 2024-05-18 15:14:26.366399
+Programm interface initialized in 2024-05-18 15:14:59.984347
+log file was opened in 2024-05-18 15:15:02.252535
+log file was updated in 2024-05-18 15:15:14.495535
+log file was updated in 2024-05-18 15:15:22.111224
+Programm interface initialized in 2024-05-18 15:25:06.546596
+Programm interface initialized in 2024-05-18 15:30:45.845911
+steam layer was opened in2024-05-18 15:30:49.804968
+steam layer was closed in 2024-05-18 15:30:50.318166
+steam layer was opened in2024-05-18 15:30:50.709255
+steam layer was closed in 2024-05-18 15:30:51.134448
+steam layer was opened in2024-05-18 15:30:51.333164
+steam layer was closed in 2024-05-18 15:30:52.893767
+steam layer was opened in2024-05-18 15:30:53.141837
+Programm interface initialized in 2024-05-18 15:36:36.809734
+Ширмовый ПП№1 window initialized in 2024-05-18 15:36:44.653761
+Programm interface initialized in 2024-05-18 15:41:01.523912
+steam layer was opened in2024-05-18 15:41:04.356784
+steam layer was closed in 2024-05-18 15:41:05.407097
+steam layer was opened in2024-05-18 15:41:05.757255
+steam layer was closed in 2024-05-18 15:41:06.245853
+steam layer was opened in2024-05-18 15:41:06.484962
+steam layer was closed in 2024-05-18 15:41:07.142610
+steam layer was opened in2024-05-18 15:41:07.413235
+steam layer was closed in 2024-05-18 15:41:14.590300
+steam layer was opened in2024-05-18 15:41:14.829063
+steam layer was closed in 2024-05-18 15:41:18.246815
+steam layer was opened in2024-05-18 15:41:18.573296
+steam layer was closed in 2024-05-18 15:41:20.014223
+steam layer was opened in2024-05-18 15:41:20.252686
+steam layer was closed in 2024-05-18 15:41:21.134726
+steam layer was opened in2024-05-18 15:41:25.765118
+steam layer was closed in 2024-05-18 15:41:28.950158
+Programm interface initialized in 2024-05-18 17:18:33.726364
+steam layer was opened in2024-05-18 17:19:06.986502
+steam layer was closed in 2024-05-18 17:19:07.500076
+steam layer was opened in2024-05-18 17:19:07.786459
+steam layer was closed in 2024-05-18 17:19:08.075831
+steam layer was opened in2024-05-18 17:19:08.394591
+steam layer was closed in 2024-05-18 17:19:08.741864
+Programm interface initialized in 2024-05-18 17:19:37.883921
+Programm interface initialized in 2024-05-18 17:20:14.666986
+Programm interface initialized in 2024-05-18 17:24:07.878233
+Programm interface initialized in 2024-05-18 17:25:48.363344
+Programm interface initialized in 2024-05-18 17:26:49.910526
+Programm interface initialized in 2024-05-18 17:28:28.501095
+steam layer was opened in2024-05-18 17:28:37.642173
+steam layer was closed in 2024-05-18 17:28:38.310652
+steam layer was opened in2024-05-18 17:28:38.594418
+steam layer was closed in 2024-05-18 17:28:39.061776
+steam layer was opened in2024-05-18 17:28:40.481914
+steam layer was closed in 2024-05-18 17:28:42.763508
+Programm interface initialized in 2024-05-18 17:31:47.890954
+Programm interface initialized in 2024-05-18 17:32:50.168751
+Programm interface initialized in 2024-05-18 17:35:51.083778
+Programm interface initialized in 2024-05-18 17:36:43.935249
+Programm interface initialized in 2024-05-18 17:37:44.233599
+Programm interface initialized in 2024-05-18 17:38:22.883015
+Programm interface initialized in 2024-05-18 17:39:05.713560
+Programm interface initialized in 2024-05-18 17:41:31.475026
+Programm interface initialized in 2024-05-18 17:42:21.317822
+Programm interface initialized in 2024-05-18 17:43:20.066776
+Programm interface initialized in 2024-05-18 17:44:09.045380
+Programm interface initialized in 2024-05-18 17:44:59.091915
+Programm interface initialized in 2024-05-18 17:45:44.545813
+Programm interface initialized in 2024-05-18 17:46:18.041100
+Programm interface initialized in 2024-05-18 17:46:55.010817
+Programm interface initialized in 2024-05-18 17:48:03.162667
+Programm interface initialized in 2024-05-18 17:48:39.207703
+Programm interface initialized in 2024-05-18 17:49:18.696370
+Programm interface initialized in 2024-05-18 17:49:50.300369
+Programm interface initialized in 2024-05-18 17:50:23.849358
+Programm interface initialized in 2024-05-18 17:50:57.699441
+Programm interface initialized in 2024-05-18 17:51:28.572470
+Programm interface initialized in 2024-05-18 17:51:57.133007
+Programm interface initialized in 2024-05-18 20:31:48.872636
+Programm interface initialized in 2024-05-18 20:33:15.867470
+gas layer was opened in2024-05-18 20:33:21.685948
+gas layer was closed in 2024-05-18 20:33:22.125367
+gas layer was opened in2024-05-18 20:33:22.365257
+gas layer was closed in 2024-05-18 20:33:22.711567
+gas layer was opened in2024-05-18 20:33:22.948753
+gas layer was closed in 2024-05-18 20:33:23.257522
+gas layer was opened in2024-05-18 20:33:23.740991
+gas layer was closed in 2024-05-18 20:33:24.070277
+steam layer was opened in2024-05-18 20:33:25.581670
+steam layer was closed in 2024-05-18 20:33:25.982669
+steam layer was opened in2024-05-18 20:33:26.277568
+gas layer was closed in 2024-05-18 20:33:26.924679
+gas layer was opened in2024-05-18 20:33:27.701447
+gas layer was closed in 2024-05-18 20:33:28.263201
+gas layer was opened in2024-05-18 20:33:28.620534
+gas layer was closed in 2024-05-18 20:33:42.494701
+steam layer was opened in2024-05-18 20:33:43.365007
+steam layer was closed in 2024-05-18 20:33:43.986720
+steam layer was opened in2024-05-18 20:33:44.660798
+steam layer was closed in 2024-05-18 20:33:45.557441
+steam layer was opened in2024-05-18 20:33:46.045224
+steam layer was closed in 2024-05-18 20:33:46.453773
+steam layer was opened in2024-05-18 20:33:47.774080
+gas layer was closed in 2024-05-18 20:33:48.532678
+gas layer was opened in2024-05-18 20:33:48.981069
+gas layer was closed in 2024-05-18 20:33:55.422131
+gas layer was opened in2024-05-18 20:33:56.300661
+gas layer was closed in 2024-05-18 20:33:56.810428
+gas layer was opened in2024-05-18 20:33:57.156724
+gas layer was closed in 2024-05-18 20:33:58.026637
+steam layer was opened in2024-05-18 20:33:58.893121
+steam layer was closed in 2024-05-18 20:33:59.353055
+Programm interface initialized in 2024-05-19 13:58:05.449323
+Programm interface initialized in 2024-05-19 14:01:49.584335
+Programm interface initialized in 2024-05-19 14:03:19.157317
+steam layer was opened in2024-05-19 14:04:21.065751
+steam layer was closed in 2024-05-19 14:04:21.420114
+steam layer was opened in2024-05-19 14:04:21.794527
+steam layer was closed in 2024-05-19 14:04:22.073676
+steam layer was opened in2024-05-19 14:04:22.794529
+steam layer was closed in 2024-05-19 14:04:23.163981
+gas layer was opened in2024-05-19 14:04:23.825878
+gas layer was closed in 2024-05-19 14:04:24.221132
+gas layer was opened in2024-05-19 14:04:24.522113
+gas layer was closed in 2024-05-19 14:04:24.796134
+gas layer was opened in2024-05-19 14:04:25.066238
+gas layer was closed in 2024-05-19 14:04:25.341672
+gas layer was opened in2024-05-19 14:04:25.977745
+gas layer was closed in 2024-05-19 14:04:26.340303
+gas layer was opened in2024-05-19 14:04:27.825723
+gas layer was closed in 2024-05-19 14:04:28.452519
+Programm interface initialized in 2024-05-19 14:29:37.127327
+gas layer was opened in2024-05-19 14:29:58.329012
+Programm interface initialized in 2024-05-19 14:31:17.389583
+steam layer was opened in2024-05-19 14:31:21.584546
+steam layer was closed in 2024-05-19 14:31:22.040042
+gas layer was opened in2024-05-19 14:31:23.561264
+gas layer was closed in 2024-05-19 14:31:26.039628
+Programm interface initialized in 2024-05-19 14:32:07.119899
+steam layer was opened in2024-05-19 14:32:10.033180
+steam layer was closed in 2024-05-19 14:32:10.601963
+gas layer was opened in2024-05-19 14:32:12.153172
+Programm interface initialized in 2024-05-19 14:39:01.623534
+log file was opened in 2024-05-19 14:39:31.583873
+Programm interface initialized in 2024-05-19 14:53:04.478589
+Programm interface initialized in 2024-05-19 14:53:40.672553
+log file was opened in 2024-05-19 14:53:49.902493
+log file was opened in 2024-05-19 14:53:50.509360
+log file was updated in 2024-05-19 14:53:53.466682
+log file was updated in 2024-05-19 14:53:54.385871
+Programm interface initialized in 2024-05-19 15:14:07.172678
+Programm interface initialized in 2024-05-19 15:22:29.473266
+Programm interface initialized in 2024-05-19 15:27:51.936214
+Programm interface initialized in 2024-05-19 15:34:36.120080
+Programm interface initialized in 2024-05-19 15:36:25.864954
+Programm interface initialized in 2024-05-19 15:45:41.156962
+Programm interface initialized in 2024-05-19 15:48:30.420324
+Programm interface initialized in 2024-05-19 15:51:41.524783
+Programm interface initialized in 2024-05-19 15:53:17.809792
+Programm interface initialized in 2024-05-19 15:56:42.505860
+Programm interface initialized in 2024-05-19 15:58:14.872424
+Programm interface initialized in 2024-05-19 15:59:45.665926
+Programm interface initialized in 2024-05-19 16:00:51.233520
+Programm interface initialized in 2024-05-19 16:03:40.361515
+Programm interface initialized in 2024-05-19 16:05:30.734264
+Programm interface initialized in 2024-05-19 16:06:26.536634
+Programm interface initialized in 2024-05-19 16:07:49.983216
+steam layer was opened in2024-05-19 16:07:54.005705
+steam layer was closed in 2024-05-19 16:07:54.406138
+gas layer was opened in2024-05-19 16:07:56.069490
+gas layer was closed in 2024-05-19 16:07:56.387013
+Programm interface initialized in 2024-05-19 16:10:53.751267
+Programm interface initialized in 2024-05-19 16:12:20.477585
+Programm interface initialized in 2024-05-23 11:33:06.999697
+steam layer was opened in2024-05-23 11:33:11.762383
+Ширмовый ПП№10 window initialized in 2024-05-23 11:33:18.398446
+Ширмовый ПП№2 window initialized in 2024-05-23 11:33:28.310127
+Ширмовый ПП№8 window initialized in 2024-05-23 11:33:36.663793
+Programm interface initialized in 2024-05-23 11:33:45.988162
+Programm interface initialized in 2024-05-23 11:33:51.680083
+Programm interface initialized in 2024-05-23 11:33:56.941066
+Programm interface initialized in 2024-05-23 11:34:02.573016
+Ширмовый ПП№10 window initialized in 2024-05-23 11:34:08.539952
+steam layer was opened in2024-05-23 11:34:08.554843
+steam layer was closed in 2024-05-23 11:34:08.558833
+Programm interface initialized in 2024-05-23 11:35:00.270428
+Programm interface initialized in 2024-05-26 15:19:13.769123
+log file was opened in 2024-05-26 15:19:46.751905
+Programm interface initialized in 2024-05-27 13:26:57.402780
+gas layer was opened in2024-05-27 13:47:33.329830
+gas layer was closed in 2024-05-27 13:47:33.780904
+steam layer was opened in2024-05-27 13:47:35.769899
+steam layer was closed in 2024-05-27 13:47:36.316121
+Programm interface initialized in 2024-05-27 14:48:23.627433
+steam layer was opened in2024-05-27 14:48:26.133596
+Ширмовый ПП№8 window initialized in 2024-05-27 14:48:32.123995
+Ширмовый ПП№9 window initialized in 2024-05-27 14:48:57.451102
+Ширмовый ПП№11 window initialized in 2024-05-27 14:49:08.525031
+Ширмовый ПП№9 window initialized in 2024-05-27 14:49:16.595453
+Ширмовый ПП№4 window initialized in 2024-05-27 14:49:25.978334
+Ширмовый ПП№3 window initialized in 2024-05-27 14:49:33.784232
+gas layer was closed in 2024-05-27 14:50:03.628766
+gas layer was opened in2024-05-27 14:50:05.148465
+gas layer was closed in 2024-05-27 14:50:05.698393
+gas layer was opened in2024-05-27 14:50:05.996819
+Ширмовый ПП№14 window initialized in 2024-05-27 14:50:16.898856
+Programm interface initialized in 2024-05-27 14:50:26.267917
+Programm interface initialized in 2024-05-27 14:50:31.680994
+Programm interface initialized in 2024-05-27 17:10:24.238411
+gas layer was opened in2024-05-27 17:10:33.481622
+gas layer was closed in 2024-05-27 17:10:34.086367
+gas layer was opened in2024-05-27 17:10:34.313388
+gas layer was closed in 2024-05-27 17:10:34.901743
+steam layer was opened in2024-05-27 17:10:36.129309
+steam layer was closed in 2024-05-27 17:10:36.475981
+steam layer was opened in2024-05-27 17:10:37.897455
+gas layer was closed in 2024-05-27 17:10:39.801643
+gas layer was opened in2024-05-27 17:10:40.969456
+all system was updated in2024-05-27 17:10:41.811785
+all system was updated in2024-05-27 17:10:44.225134
+all system was updated in2024-05-27 17:10:44.840109
+all system was updated in2024-05-27 17:10:45.352683
+all system was updated in2024-05-27 17:10:45.794189
+all system was updated in2024-05-27 17:10:46.025324
+steam layer was closed in 2024-05-27 17:10:54.763748
+steam layer was opened in2024-05-27 17:10:55.329199
+gas layer was closed in 2024-05-27 17:10:56.871325
+gas layer was opened in2024-05-27 17:10:57.129515
+all system was updated in2024-05-27 17:11:00.219307
+all system was updated in2024-05-27 17:11:01.265015
+all system was updated in2024-05-27 17:11:01.779132
+Programm interface initialized in 2024-05-27 17:20:13.891054
+gas layer was opened in2024-05-27 17:20:18.872940
+gas layer was closed in 2024-05-27 17:20:19.885910
+steam layer was opened in2024-05-27 17:20:21.904858
+steam layer was closed in 2024-05-27 17:20:23.490267
+steam layer was opened in2024-05-27 17:20:23.744764
+steam layer was closed in 2024-05-27 17:20:24.714927
+steam layer was opened in2024-05-27 17:20:26.161334
+gas layer was closed in 2024-05-27 17:20:27.128303
+gas layer was opened in2024-05-27 17:20:28.488842
+all system was updated in2024-05-27 17:20:31.713083
+all system was updated in2024-05-27 17:20:32.488588
+all system was updated in2024-05-27 17:20:32.912319
+all system was updated in2024-05-27 17:20:33.664540
+all system was updated in2024-05-27 17:20:34.383615
+Programm interface initialized in 2024-05-30 12:05:22.249286
+steam layer was opened in2024-05-30 12:05:26.936929
+steam layer was closed in 2024-05-30 12:05:29.951558
+steam layer was opened in2024-05-30 12:05:30.312959
+Ширмовый ПП№8 window initialized in 2024-05-30 12:05:42.222605
+Ширмовый ПП№1 window initialized in 2024-05-30 12:05:51.704496
+Ширмовый ПП№3 window initialized in 2024-05-30 12:06:06.523488
+Ширмовый ПП№7 window initialized in 2024-05-30 12:06:19.169315
+Ширмовый ПП№11 window initialized in 2024-05-30 12:06:32.016387
+Programm interface initialized in 2024-05-30 12:11:35.960740
+steam layer was opened in2024-05-30 12:11:51.657134
+steam layer was closed in 2024-05-30 12:11:57.663803
+steam layer was opened in2024-05-30 12:11:58.072896
+steam layer was closed in 2024-05-30 12:12:07.152005
+steam layer was opened in2024-05-30 12:12:07.432355
+steam layer was closed in 2024-05-30 12:12:12.832221
+gas layer was opened in2024-05-30 12:12:13.600237
+gas layer was closed in 2024-05-30 12:12:14.338658
+gas layer was opened in2024-05-30 12:12:14.568385
+Programm interface initialized in 2024-05-30 12:28:35.748068
+steam layer was opened in2024-05-30 12:29:20.239909
+steam layer was closed in 2024-05-30 12:29:28.046125
+steam layer was opened in2024-05-30 12:29:28.359218
+steam layer was closed in 2024-05-30 12:29:29.710367
+steam layer was opened in2024-05-30 12:29:29.959231
+steam layer was closed in 2024-05-30 12:29:31.389533
+gas layer was opened in2024-05-30 12:29:32.487712
+Programm interface initialized in 2024-05-30 12:36:15.598657
+steam layer was opened in2024-05-30 12:36:26.927500
+steam layer was closed in 2024-05-30 12:36:38.517452
+steam layer was opened in2024-05-30 12:36:38.823055
+steam layer was closed in 2024-05-30 12:36:39.279641
+steam layer was opened in2024-05-30 12:36:41.943295
+steam layer was closed in 2024-05-30 12:36:42.319781
+gas layer was opened in2024-05-30 12:36:44.454896
+gas layer was closed in 2024-05-30 12:36:50.245260
+gas layer was opened in2024-05-30 12:36:50.559259
+gas layer was closed in 2024-05-30 12:36:52.485286
+Programm interface initialized in 2024-05-30 12:42:09.014971
+gas layer was opened in2024-05-30 12:42:14.038713
+gas layer was closed in 2024-05-30 12:42:22.592304
+gas layer was opened in2024-05-30 12:42:22.990817
+gas layer was closed in 2024-05-30 12:42:23.401973
+steam layer was opened in2024-05-30 12:45:30.150411
+Ширмовый ПП№1 window initialized in 2024-05-30 12:45:36.476455
+Programm interface initialized in 2024-05-30 12:51:10.027079
+steam layer was opened in2024-05-30 12:51:14.022318
+steam layer was closed in 2024-05-30 12:51:15.712315
+steam layer was opened in2024-05-30 12:51:15.925943
+steam layer was closed in 2024-05-30 12:51:16.639752
+gas layer was opened in2024-05-30 12:51:19.445752
+gas layer was closed in 2024-05-30 12:51:20.092277
+Programm interface initialized in 2024-05-30 12:54:00.737186
+gas layer was opened in2024-05-30 12:54:05.118452
+gas layer was closed in 2024-05-30 12:54:07.106612
+steam layer was opened in2024-05-30 12:54:09.126186
+steam layer was closed in 2024-05-30 12:54:10.728298
+steam layer was opened in2024-05-30 12:54:10.926232
+all system was updated in2024-05-30 12:54:14.527830
+all system was updated in2024-05-30 12:54:15.326853
+all system was updated in2024-05-30 12:54:16.030184
+all system was updated in2024-05-30 12:54:51.868190
+all system was updated in2024-05-30 12:54:52.565042
+all system was updated in2024-05-30 12:54:52.964560
+all system was updated in2024-05-30 12:54:53.229381
+all system was updated in2024-05-30 12:54:53.773983
+all system was updated in2024-05-30 12:54:53.965268
+all system was updated in2024-05-30 12:54:55.181289
+all system was updated in2024-05-30 12:54:55.965152
+all system was updated in2024-05-30 12:54:57.429000
+steam layer was closed in 2024-05-30 12:55:01.934594
+steam layer was opened in2024-05-30 12:55:02.397798
+steam layer was closed in 2024-05-30 12:55:02.911621
+gas layer was opened in2024-05-30 12:55:06.134142
+gas layer was closed in 2024-05-30 12:55:06.683014
+all system was updated in2024-05-30 12:55:08.478903
+all system was updated in2024-05-30 12:55:09.150283
+Programm interface initialized in 2024-05-30 13:02:03.062779
+steam layer was opened in2024-05-30 13:02:11.229329
+steam layer was closed in 2024-05-30 13:02:12.151854
+steam layer was opened in2024-05-30 13:02:12.525614
+steam layer was closed in 2024-05-30 13:02:13.263979
+gas layer was opened in2024-05-30 13:02:15.934013
+gas layer was closed in 2024-05-30 13:02:16.522880
+gas layer was opened in2024-05-30 13:02:16.765608
+steam layer was closed in 2024-05-30 13:02:32.469357
+steam layer was opened in2024-05-30 13:02:33.021385
+all system was updated in2024-05-30 13:04:38.382946
+Ширмовый ПП№9 window initialized in 2024-05-30 13:04:43.247634
+Ширмовый ПП№2 window initialized in 2024-05-30 13:05:01.410738
+steam layer was closed in 2024-05-30 13:07:44.315774
+steam layer was opened in2024-05-30 13:07:44.652635
+steam layer was closed in 2024-05-30 13:07:45.325565
+steam layer was opened in2024-05-30 13:07:45.596925
+gas layer was closed in 2024-05-30 13:07:47.062453
+gas layer was opened in2024-05-30 13:07:47.341286
+gas layer was closed in 2024-05-30 13:07:47.797821
+gas layer was opened in2024-05-30 13:07:48.021148
+Programm interface initialized in 2024-05-30 14:07:44.039976
+steam layer was opened in2024-05-30 14:07:48.217525
+steam layer was closed in 2024-05-30 14:08:00.363075
+steam layer was opened in2024-05-30 14:08:01.745642
+gas layer was closed in 2024-05-30 15:47:31.647742
+gas layer was opened in2024-05-30 15:47:32.200719
+gas layer was closed in 2024-05-30 15:47:36.071160
+Programm interface initialized in 2024-05-30 18:39:33.481267
+steam layer was opened in2024-05-30 18:39:49.687759
+steam layer was closed in 2024-05-30 18:39:50.183058
+steam layer was opened in2024-05-30 18:39:50.591775
+steam layer was closed in 2024-05-30 18:39:50.873186
+gas layer was opened in2024-05-30 18:40:00.527877
+Programm interface initialized in 2024-05-30 18:45:04.721162
+gas layer was closed in 2024-05-30 18:45:19.544087
+gas layer was opened in2024-05-30 18:45:20.047273
+Ширмовый ПП№20 window initialized in 2024-05-30 18:46:21.438240
+Programm interface initialized in 2024-05-30 18:49:19.047681
+gas layer was closed in 2024-05-30 18:49:33.583235
+gas layer was opened in2024-05-30 18:49:34.303204
+Programm interface initialized in 2024-05-30 18:52:58.687018
+gas layer was closed in 2024-05-30 18:53:14.078618
+gas layer was opened in2024-05-30 18:53:15.046781
+Programm interface initialized in 2024-05-30 18:57:14.542528
+gas layer was opened in2024-05-30 18:57:23.798825
+gas layer was closed in 2024-05-30 18:57:24.715347
+gas layer was opened in2024-05-30 18:57:25.406370
+Programm interface initialized in 2024-05-30 19:01:04.249504
+gas layer was closed in 2024-05-30 19:01:14.182321
+gas layer was opened in2024-05-30 19:01:14.878798
+Programm interface initialized in 2024-05-30 19:03:59.789340
+gas layer was closed in 2024-05-30 19:04:11.702458
+gas layer was opened in2024-05-30 19:04:12.789640
+gas layer was closed in 2024-05-30 19:04:14.631173
+gas layer was opened in2024-05-30 19:04:15.014415
+gas layer was closed in 2024-05-30 19:04:15.448262
+gas layer was opened in2024-05-30 19:04:34.014381
+gas layer was closed in 2024-05-30 19:04:34.578128
+gas layer was opened in2024-05-30 19:04:34.781953
+gas layer was closed in 2024-05-30 19:04:36.025997
+gas layer was opened in2024-05-30 19:04:36.254409
+gas layer was closed in 2024-05-30 19:04:36.627560
+gas layer was opened in2024-05-30 19:04:36.885761
+gas layer was closed in 2024-05-30 19:04:37.226786
+gas layer was opened in2024-05-30 19:04:37.454333
+Programm interface initialized in 2024-05-31 13:41:12.740406
+gas layer was opened in2024-05-31 13:41:24.324065
+gas layer was closed in 2024-05-31 13:41:24.906487
+Programm interface initialized in 2024-05-31 13:42:09.014944
+gas layer was opened in2024-05-31 13:42:12.556487
+Ширмовый ПП№20 window initialized in 2024-05-31 13:42:20.442811
+Ширмовый ПП№20 window initialized in 2024-05-31 13:42:28.097863
+Ширмовый ПП№20 window initialized in 2024-05-31 13:42:43.562586
+Programm interface initialized in 2024-05-31 13:59:53.181689
+gas layer was opened in2024-05-31 13:59:57.044392
+Programm interface initialized in 2024-05-31 14:01:56.967967
+gas layer was opened in2024-05-31 14:02:10.019995
+Ширмовый ПП№20 window initialized in 2024-05-31 14:02:28.408141
+Programm interface initialized in 2024-05-31 14:05:11.743177
+gas layer was opened in2024-05-31 14:05:13.796455
+Ширмовый ПП№20 window initialized in 2024-05-31 14:05:29.258315
+Ширмовый ПП№20 window initialized in 2024-05-31 14:05:46.483428
+Ширмовый ПП№20 window initialized in 2024-05-31 14:05:51.804535
+Ширмовый ПП№20 window initialized in 2024-05-31 14:05:58.029342
+Ширмовый ПП№20 window initialized in 2024-05-31 14:06:07.586392
+Ширмовый ПП№20 window initialized in 2024-05-31 14:07:06.336961
+Ширмовый ПП№20 window initialized in 2024-05-31 14:08:45.867240
+Programm interface initialized in 2024-05-31 14:08:55.686445
+gas layer was opened in2024-05-31 14:09:04.244019
+Ширмовый ПП№20 window initialized in 2024-05-31 14:10:49.112266
+Programm interface initialized in 2024-05-31 14:11:29.780375
+steam layer was opened in2024-05-31 14:11:33.172127
+steam layer was closed in 2024-05-31 14:11:34.189295
+gas layer was opened in2024-05-31 14:11:34.875675
+Programm interface initialized in 2024-05-31 14:13:32.123387
+gas layer was opened in2024-05-31 14:13:38.499490
+Programm interface initialized in 2024-05-31 14:14:33.671333
+gas layer was opened in2024-05-31 14:14:35.699808
+Ширмовый ПП№20 window initialized in 2024-05-31 14:15:22.140728
+Ширмовый ПП№20 window initialized in 2024-05-31 14:15:30.440545
+Programm interface initialized in 2024-05-31 14:16:32.213664
+gas layer was opened in2024-05-31 14:16:37.596157
+Ширмовый ПП№20 window initialized in 2024-05-31 14:16:56.856281
+Ширмовый ПП№20 window initialized in 2024-05-31 14:17:01.973036
+Programm interface initialized in 2024-05-31 14:17:45.990406
+gas layer was opened in2024-05-31 14:17:47.691836
+steam layer was closed in 2024-05-31 14:18:20.579432
+steam layer was opened in2024-05-31 14:18:21.123525
+steam layer was closed in 2024-05-31 14:18:21.859998
+steam layer was opened in2024-05-31 14:18:22.259557
+steam layer was closed in 2024-05-31 14:18:23.649908
+gas layer was opened in2024-05-31 14:18:24.115753
+gas layer was opened in2024-05-31 14:18:28.739669
+steam layer was closed in 2024-05-31 14:18:31.100009
+steam layer was opened in2024-05-31 14:18:31.523408
+steam layer was closed in 2024-05-31 14:18:32.259502
+gas layer was opened in2024-05-31 14:18:33.083710
+gas layer was closed in 2024-05-31 14:18:36.611760
+gas layer was opened in2024-05-31 14:18:38.963660
+steam layer was closed in 2024-05-31 14:18:46.787733
+steam layer was opened in2024-05-31 14:18:47.211961
+steam layer was closed in 2024-05-31 14:18:48.565224
+steam layer was opened in2024-05-31 14:18:49.379841
+steam layer was closed in 2024-05-31 14:18:51.484253
+steam layer was opened in2024-05-31 14:19:47.916201
+steam layer was closed in 2024-05-31 14:19:48.531369
+gas layer was opened in2024-05-31 14:19:49.356101
+gas layer was closed in 2024-05-31 14:19:49.897350
+gas layer was opened in2024-05-31 14:19:51.467777
+Programm interface initialized in 2024-05-31 14:21:42.948177
+gas layer was opened in2024-05-31 14:21:50.227226
+Ширмовый ПП№20 window initialized in 2024-05-31 14:23:13.618872
+Programm interface initialized in 2024-05-31 14:24:17.208905
+gas layer was opened in2024-05-31 14:24:20.331671
+Ширмовый ПП№20 window initialized in 2024-05-31 14:24:32.692171
+Ширмовый ПП№20 window initialized in 2024-05-31 14:25:31.408361
+Programm interface initialized in 2024-05-31 14:26:34.567100
+gas layer was opened in2024-05-31 14:26:39.563407
+Ширмовый ПП№20 window initialized in 2024-05-31 14:27:04.328049
+Programm interface initialized in 2024-05-31 14:28:24.624795
+gas layer was opened in2024-05-31 14:28:26.619320
+Ширмовый ПП№20 window initialized in 2024-05-31 14:28:54.052583
+Programm interface initialized in 2024-05-31 14:30:24.688754
+gas layer was opened in2024-05-31 14:30:27.019589
+Ширмовый ПП№20 window initialized in 2024-05-31 14:30:46.354401
+Programm interface initialized in 2024-05-31 14:31:52.362873
+gas layer was opened in2024-05-31 14:32:02.803311
+Programm interface initialized in 2024-05-31 14:33:39.496351
+gas layer was opened in2024-05-31 14:33:41.187111
+Ширмовый ПП№20 window initialized in 2024-05-31 14:34:04.091859
+Ширмовый ПП№20 window initialized in 2024-05-31 14:34:09.943643
+Ширмовый ПП№20 window initialized in 2024-05-31 14:34:15.110363
+Programm interface initialized in 2024-05-31 14:35:20.779514
+gas layer was opened in2024-05-31 14:35:25.651987
+Programm interface initialized in 2024-05-31 14:37:19.246900
+gas layer was opened in2024-05-31 14:37:27.347215
+Ширмовый ПП№20 window initialized in 2024-05-31 14:39:01.677250
+Ширмовый ПП№20 window initialized in 2024-05-31 14:39:44.570228
+Programm interface initialized in 2024-05-31 14:41:24.331168
+gas layer was opened in2024-05-31 14:41:27.299161
+Ширмовый ПП№20 window initialized in 2024-05-31 14:41:35.913508
+steam layer was closed in 2024-05-31 14:41:52.995213
+steam layer was opened in2024-05-31 14:41:53.499257
+steam layer was closed in 2024-05-31 14:41:54.018616
+steam layer was opened in2024-05-31 14:41:54.627583
+steam layer was closed in 2024-05-31 14:41:55.451719
+steam layer was opened in2024-05-31 14:41:56.506677
+steam layer was closed in 2024-05-31 14:41:59.107591
+gas layer was opened in2024-05-31 14:42:00.050863
+Programm interface initialized in 2024-05-31 14:43:10.488995
+gas layer was opened in2024-05-31 14:43:12.923214
+Programm interface initialized in 2024-05-31 14:46:27.837387
+gas layer was opened in2024-05-31 14:46:29.498997
+Programm interface initialized in 2024-05-31 14:49:33.917991
+gas layer was opened in2024-05-31 14:49:39.002737
+Ширмовый ПП№20 window initialized in 2024-05-31 14:50:57.011033
+Programm interface initialized in 2024-05-31 14:52:49.557832
+gas layer was opened in2024-05-31 14:52:51.346901
+Ширмовый ПП№20 window initialized in 2024-05-31 14:53:10.486217
+Programm interface initialized in 2024-05-31 14:54:36.853231
+gas layer was opened in2024-05-31 14:54:39.290565
+Programm interface initialized in 2024-05-31 14:55:46.034049
+gas layer was opened in2024-05-31 14:56:25.034631
+Programm interface initialized in 2024-05-31 14:57:09.011147
+gas layer was opened in2024-05-31 14:57:10.754715
+Programm interface initialized in 2024-05-31 14:57:34.473142
+gas layer was opened in2024-05-31 14:57:47.946441
+Programm interface initialized in 2024-05-31 14:59:14.356141
+gas layer was opened in2024-05-31 14:59:36.778435
+gas layer was closed in 2024-05-31 14:59:44.155152
+gas layer was opened in2024-05-31 14:59:44.538530
+gas layer was closed in 2024-05-31 14:59:45.016302
+gas layer was opened in2024-05-31 14:59:45.450279
+gas layer was closed in 2024-05-31 14:59:47.816290
+gas layer was opened in2024-05-31 14:59:48.114564
+gas layer was closed in 2024-05-31 15:00:10.184364
+gas layer was opened in2024-05-31 15:00:10.610860
+gas layer was closed in 2024-05-31 15:00:12.071970
+gas layer was opened in2024-05-31 15:00:12.610738
+gas layer was closed in 2024-05-31 15:00:14.023726
+gas layer was opened in2024-05-31 15:00:14.250875
+gas layer was closed in 2024-05-31 15:00:14.655350
+gas layer was opened in2024-05-31 15:00:14.914274
+gas layer was closed in 2024-05-31 15:00:15.312127
+gas layer was opened in2024-05-31 15:00:15.570251
+gas layer was closed in 2024-05-31 15:00:15.927605
+gas layer was opened in2024-05-31 15:00:16.394444
+gas layer was closed in 2024-05-31 15:00:16.776040
+Programm interface initialized in 2024-05-31 15:00:25.840110
+gas layer was opened in2024-05-31 15:00:39.458580
+gas layer was closed in 2024-05-31 15:00:40.552766
+gas layer was opened in2024-05-31 15:00:40.890357
+gas layer was closed in 2024-05-31 15:00:41.376494
+gas layer was opened in2024-05-31 15:00:41.618472
+steam layer was closed in 2024-05-31 15:00:42.186635
+steam layer was opened in2024-05-31 15:00:42.674519
+steam layer was closed in 2024-05-31 15:00:44.146446
+gas layer was opened in2024-05-31 15:00:45.186618
+gas layer was closed in 2024-05-31 15:00:45.722078
+steam layer was opened in2024-05-31 15:00:46.378493
+gas layer was closed in 2024-05-31 15:00:47.098460
+gas layer was opened in2024-05-31 15:00:47.690552
+gas layer was closed in 2024-05-31 15:00:51.678247
+gas layer was opened in2024-05-31 15:00:52.162676
+gas layer was closed in 2024-05-31 15:00:52.597374
+gas layer was opened in2024-05-31 15:00:53.130005
+gas layer was closed in 2024-05-31 15:00:56.754593
+gas layer was opened in2024-05-31 15:00:57.146610
+gas layer was closed in 2024-05-31 15:00:57.774993
+gas layer was opened in2024-05-31 15:00:58.034494
+gas layer was closed in 2024-05-31 15:00:58.646216
+Programm interface initialized in 2024-05-31 15:24:19.022087
+steam layer was opened in2024-05-31 15:24:24.025704
+Programm interface initialized in 2024-05-31 15:28:37.604864
+steam layer was opened in2024-05-31 15:28:39.577192
+Programm interface initialized in 2024-05-31 15:32:28.629665
+steam layer was opened in2024-05-31 15:32:31.602005
+Programm interface initialized in 2024-05-31 15:35:16.325613
+steam layer was opened in2024-05-31 15:35:19.897858
+Ширмовый ПП№6 window initialized in 2024-05-31 15:35:29.982271
+Ширмовый ПП№8 window initialized in 2024-05-31 15:35:35.584182
+Ширмовый ПП№8 window initialized in 2024-05-31 15:35:41.231402
+Ширмовый ПП№8 window initialized in 2024-05-31 15:35:46.828635
+Programm interface initialized in 2024-05-31 15:37:46.786835
+gas layer was opened in2024-05-31 15:37:49.208803
+gas layer was closed in 2024-05-31 15:37:49.708296
+gas layer was opened in2024-05-31 15:37:52.833345
+gas layer was closed in 2024-05-31 15:37:53.558032
+gas layer was opened in2024-05-31 15:37:53.889258
+gas layer was closed in 2024-05-31 15:37:54.388091
+steam layer was opened in2024-05-31 15:37:55.376896
+Programm interface initialized in 2024-05-31 15:40:07.161071
+steam layer was opened in2024-05-31 15:40:09.105349
+Programm interface initialized in 2024-05-31 15:41:52.502841
+steam layer was opened in2024-05-31 15:41:55.488852
+Ширмовый ПП№9 window initialized in 2024-05-31 15:43:15.453096
+Programm interface initialized in 2024-05-31 15:46:09.386893
+steam layer was opened in2024-05-31 15:46:22.736923
+Programm interface initialized in 2024-05-31 15:48:30.746974
+steam layer was opened in2024-05-31 15:49:25.552934
+Programm interface initialized in 2024-05-31 15:52:17.851068
+steam layer was opened in2024-05-31 15:52:24.673199
+Programm interface initialized in 2024-05-31 15:53:52.613391
+steam layer was opened in2024-05-31 15:54:01.104822
+steam layer was closed in 2024-05-31 15:54:03.730315
+steam layer was opened in2024-05-31 15:54:04.992807
+Programm interface initialized in 2024-05-31 15:56:11.273092
+steam layer was opened in2024-05-31 15:56:13.672946
+Ширмовый ПП№4 window initialized in 2024-05-31 15:56:56.737371
+Programm interface initialized in 2024-05-31 15:57:54.903766
+steam layer was opened in2024-05-31 15:57:57.184156
+Programm interface initialized in 2024-05-31 15:59:55.275449
+steam layer was opened in2024-05-31 16:00:03.439990
+steam layer was closed in 2024-05-31 16:00:16.417365
+steam layer was opened in2024-05-31 16:00:16.752624
+steam layer was closed in 2024-05-31 16:00:17.401783
+steam layer was opened in2024-05-31 16:00:17.624505
+steam layer was closed in 2024-05-31 16:00:18.217410
+steam layer was opened in2024-05-31 16:00:18.488898
+steam layer was closed in 2024-05-31 16:00:19.378369
+steam layer was opened in2024-05-31 16:00:19.672745
+Programm interface initialized in 2024-05-31 16:01:51.029560
+steam layer was opened in2024-05-31 16:01:54.080171
+steam layer was closed in 2024-05-31 16:01:57.976278
+steam layer was opened in2024-05-31 16:01:58.200358
+steam layer was closed in 2024-05-31 16:01:58.673664
+steam layer was opened in2024-05-31 16:01:58.912617
+steam layer was closed in 2024-05-31 16:01:59.544989
+steam layer was opened in2024-05-31 16:01:59.776667
+steam layer was closed in 2024-05-31 16:02:01.064983
+steam layer was opened in2024-05-31 16:02:01.296643
+Programm interface initialized in 2024-05-31 16:02:42.058140
+steam layer was opened in2024-05-31 16:02:44.192281
+Ширмовый ПП№5 window initialized in 2024-05-31 16:03:01.716235
+Programm interface initialized in 2024-05-31 16:04:01.736666
+steam layer was opened in2024-05-31 16:04:03.585422
+Programm interface initialized in 2024-05-31 16:04:58.651699
+steam layer was opened in2024-05-31 16:05:05.600919
+steam layer was closed in 2024-05-31 16:05:08.665392
+steam layer was opened in2024-05-31 16:05:08.895507
+steam layer was closed in 2024-05-31 16:05:10.529144
+steam layer was opened in2024-05-31 16:05:10.768231
+Programm interface initialized in 2024-05-31 16:06:54.458963
+steam layer was opened in2024-05-31 16:06:56.536306
+steam layer was closed in 2024-05-31 16:06:58.516087
+steam layer was opened in2024-05-31 16:06:58.768306
+Programm interface initialized in 2024-05-31 16:07:30.963040
+steam layer was opened in2024-05-31 16:07:32.528237
+steam layer was closed in 2024-05-31 16:07:38.849877
+steam layer was opened in2024-05-31 16:07:40.064281
+steam layer was closed in 2024-05-31 16:07:40.369924
+steam layer was opened in2024-05-31 16:07:40.928239
+steam layer was closed in 2024-05-31 16:07:42.098611
+steam layer was opened in2024-05-31 16:07:48.871636
+Programm interface initialized in 2024-05-31 16:08:05.214634
+steam layer was opened in2024-05-31 16:08:08.000066
+steam layer was closed in 2024-05-31 16:08:08.681423
+steam layer was opened in2024-05-31 16:08:08.888054
+steam layer was closed in 2024-05-31 16:08:11.002057
+steam layer was opened in2024-05-31 16:08:11.216648
+Programm interface initialized in 2024-05-31 16:08:31.359212
+steam layer was opened in2024-05-31 16:08:32.807967
+steam layer was closed in 2024-05-31 16:08:33.287439
+steam layer was opened in2024-05-31 16:08:33.504584
+steam layer was closed in 2024-05-31 16:08:34.011632
+steam layer was opened in2024-05-31 16:08:34.256498
+steam layer was closed in 2024-05-31 16:08:34.771725
+steam layer was opened in2024-05-31 16:08:34.976043
+Programm interface initialized in 2024-05-31 16:09:10.732253
+steam layer was opened in2024-05-31 16:09:12.119835
+steam layer was closed in 2024-05-31 16:09:15.394508
+steam layer was opened in2024-05-31 16:09:15.608184
+steam layer was closed in 2024-05-31 16:09:16.081727
+steam layer was opened in2024-05-31 16:09:16.343596
+steam layer was closed in 2024-05-31 16:09:16.971983
+steam layer was opened in2024-05-31 16:09:17.264221
+steam layer was closed in 2024-05-31 16:09:17.642117
+steam layer was opened in2024-05-31 16:09:17.879929
+steam layer was closed in 2024-05-31 16:09:19.079979
+steam layer was opened in2024-05-31 16:09:19.296120
+steam layer was closed in 2024-05-31 16:09:20.697593
+steam layer was opened in2024-05-31 16:09:20.944095
+steam layer was closed in 2024-05-31 16:09:21.491409
+gas layer was opened in2024-05-31 16:09:22.064201
+steam layer was closed in 2024-05-31 16:09:23.152038
+steam layer was opened in2024-05-31 16:09:23.616757
+gas layer was closed in 2024-05-31 16:09:33.116069
+gas layer was opened in2024-05-31 16:09:33.615987
+steam layer was closed in 2024-05-31 16:09:35.386911
+steam layer was opened in2024-05-31 16:09:35.912481
+steam layer was closed in 2024-05-31 16:09:36.937250
+steam layer was opened in2024-05-31 16:09:37.120124
+gas layer was closed in 2024-05-31 16:09:37.891232
+gas layer was opened in2024-05-31 16:09:38.568075
+gas layer was closed in 2024-05-31 16:09:39.154619
+steam layer was opened in2024-05-31 16:09:39.848255
+gas layer was closed in 2024-05-31 16:09:40.240033
+steam layer was opened in2024-05-31 16:09:40.992386
+steam layer was closed in 2024-05-31 16:09:41.433207
+gas layer was opened in2024-05-31 16:09:42.024330
+steam layer was closed in 2024-05-31 16:09:42.680239
+steam layer was opened in2024-05-31 16:09:43.023981
+gas layer was closed in 2024-05-31 16:09:49.176347
+gas layer was opened in2024-05-31 16:09:49.416466
+gas layer was closed in 2024-05-31 16:09:49.696647
+gas layer was opened in2024-05-31 16:09:50.111789
+gas layer was closed in 2024-05-31 16:09:52.578094
+gas layer was opened in2024-05-31 16:09:53.096424
+steam layer was closed in 2024-05-31 16:09:53.514383
+gas layer was closed in 2024-05-31 16:09:54.555438
+gas layer was opened in2024-05-31 16:09:54.704453
+gas layer was closed in 2024-05-31 16:09:55.183045
+gas layer was opened in2024-05-31 16:10:02.784167
+gas layer was closed in 2024-05-31 16:10:03.775960
+gas layer was opened in2024-05-31 16:10:04.688143
+gas layer was closed in 2024-05-31 16:10:07.708314
+steam layer was opened in2024-05-31 16:10:08.512783
+steam layer was closed in 2024-05-31 16:10:09.050810
+gas layer was closed in 2024-05-31 16:10:13.719595
+gas layer was opened in2024-05-31 16:10:14.185266
+gas layer was closed in 2024-05-31 16:10:15.025901
+gas layer was opened in2024-05-31 16:10:15.408160
+gas layer was closed in 2024-05-31 16:10:17.105881
+gas layer was opened in2024-05-31 16:10:24.704080
+gas layer was closed in 2024-05-31 16:10:25.312934
+gas layer was opened in2024-05-31 16:10:25.688320
+gas layer was closed in 2024-05-31 16:10:26.360682
+gas layer was opened in2024-05-31 16:10:28.063700
+gas layer was closed in 2024-05-31 16:10:28.495213
+steam layer was opened in2024-05-31 16:10:30.008128
+steam layer was closed in 2024-05-31 16:10:30.554192
+steam layer was opened in2024-05-31 16:10:30.928991
+steam layer was closed in 2024-05-31 16:10:34.436537
+gas layer was opened in2024-05-31 16:10:40.264037
+gas layer was closed in 2024-05-31 16:10:42.557378
+gas layer was opened in2024-05-31 16:10:42.816242
+gas layer was closed in 2024-05-31 16:10:43.277652
+gas layer was opened in2024-05-31 16:10:43.616306
+gas layer was closed in 2024-05-31 16:10:44.087086
+all system was updated in2024-05-31 16:10:51.832444
+all system was updated in2024-05-31 16:10:54.002872
+Programm interface initialized in 2024-05-31 16:52:19.990652
+Programm interface initialized in 2024-05-31 16:53:31.481191
+Programm interface initialized in 2024-05-31 16:54:21.774176
+Programm interface initialized in 2024-05-31 16:57:31.931618
+Programm interface initialized in 2024-05-31 17:03:59.230172
+Programm interface initialized in 2024-05-31 17:04:53.535274
+gas layer was closed in 2024-05-31 17:05:04.518118
+gas layer was opened in2024-05-31 17:05:05.614394
+gas layer was closed in 2024-05-31 17:05:05.815679
+gas layer was opened in2024-05-31 17:05:06.254348
+gas layer was closed in 2024-05-31 17:05:06.552717
+Programm interface initialized in 2024-05-31 17:10:47.034416
+Ширмовый ПП№20 window initialized in 2024-05-31 17:11:12.366503
+Ширмовый ПП№20 window initialized in 2024-05-31 17:12:47.545602
+Programm interface initialized in 2024-05-31 17:13:16.166351
+Programm interface initialized in 2024-05-31 17:15:32.421170
+Programm interface initialized in 2024-05-31 17:19:09.829444
+Programm interface initialized in 2024-05-31 17:20:17.869967
+Programm interface initialized in 2024-05-31 17:21:33.390149
+Programm interface initialized in 2024-05-31 17:22:15.937060
+Programm interface initialized in 2024-05-31 17:23:07.190630
+Programm interface initialized in 2024-05-31 17:23:54.454416
+Ширмовый ПП№20 window initialized in 2024-05-31 17:24:07.389060
+Programm interface initialized in 2024-05-31 17:24:51.777941
+Ширмовый ПП№20 window initialized in 2024-05-31 17:25:04.173138
+Programm interface initialized in 2024-05-31 17:31:27.672133
+Ширмовый ПП№20 window initialized in 2024-05-31 17:31:39.531734
+Programm interface initialized in 2024-05-31 17:32:25.834899
+Programm interface initialized in 2024-05-31 17:33:03.269484
+Programm interface initialized in 2024-05-31 17:33:28.376442
+Programm interface initialized in 2024-05-31 17:34:02.943894
+gas layer was opened in2024-05-31 17:34:18.237249
+gas layer was closed in 2024-05-31 17:34:18.611458
+gas layer was opened in2024-05-31 17:34:19.061853
+gas layer was closed in 2024-05-31 17:34:19.275291
+steam layer was opened in2024-05-31 17:34:20.293400
+steam layer was closed in 2024-05-31 17:34:20.935559
+steam layer was opened in2024-05-31 17:34:21.373276
+steam layer was closed in 2024-05-31 17:34:21.629947
+gas layer was opened in2024-05-31 17:34:23.733298
+gas layer was closed in 2024-05-31 17:34:24.107140
+gas layer was opened in2024-05-31 17:34:24.421379
+gas layer was closed in 2024-05-31 17:34:24.705243
+plotter window was initialized in 2024-05-31 17:34:53.942427
+log file was opened in 2024-05-31 17:34:56.030547
+Programm interface initialized in 2024-05-31 17:36:29.465031
+Ширмовый ПП№20 window initialized in 2024-05-31 17:36:37.731359
+Programm interface initialized in 2024-05-31 17:37:01.673275
+gas layer was opened in2024-05-31 17:37:04.141337
+gas layer was closed in 2024-05-31 17:37:05.931941
+gas layer was opened in2024-05-31 17:37:06.157134
+gas layer was closed in 2024-05-31 17:37:06.889905
+Programm interface initialized in 2024-05-31 17:37:29.567478
+gas layer was opened in2024-05-31 17:37:33.549163
+gas layer was closed in 2024-05-31 17:37:34.148188
+steam layer was opened in2024-05-31 17:37:34.757499
+steam layer was closed in 2024-05-31 17:37:36.664732
+Programm interface initialized in 2024-06-04 13:01:28.491772
+Programm interface initialized in 2024-06-04 13:16:06.226232
+repair menu was opened in 2024-06-04 13:16:30.246856
+Programm interface initialized in 2024-06-04 13:20:41.904187
+gas layer was opened in2024-06-04 13:20:44.258709
+gas layer was closed in 2024-06-04 13:20:44.936839
+gas layer was opened in2024-06-04 13:20:45.434957
+gas layer was closed in 2024-06-04 13:20:46.462655
+air layer was closed in 2024-06-04 13:20:46.954265
+air layer was opened in 2024-06-04 13:20:47.896182
+air layer was closed in 2024-06-04 13:20:48.290480
+air layer was opened in 2024-06-04 13:20:50.160992
+steam layer was opened in2024-06-04 13:20:50.586176
+steam layer was closed in 2024-06-04 13:20:54.326621
+smoke fan layer was opened in2024-06-04 13:20:55.252365
+smoke fan layer was closed in2024-06-04 13:20:59.296066
+smoke fan layer was opened in2024-06-04 13:21:00.323480
+smoke fan layer was closed in2024-06-04 13:21:00.649462
+smoke fan layer was opened in2024-06-04 13:21:01.044027
+smoke fan layer was closed in2024-06-04 13:21:01.961622
+smoke fan layer was opened in2024-06-04 13:21:02.467270
+Ширмовый ПП№20 window initialized in 2024-06-04 13:21:08.935152
+smoke fan layer was closed in2024-06-04 13:21:17.002399
+smoke fan layer was opened in2024-06-04 13:21:18.003980
+all system was updated in2024-06-04 13:21:26.593698
+all system was updated in2024-06-04 13:21:26.839343
+all system was updated in2024-06-04 13:21:28.180655
+all system was updated in2024-06-04 13:21:29.239334
+smoke fan layer was closed in2024-06-04 13:21:32.163851
+steam layer was opened in2024-06-04 13:21:41.114947
+steam layer was closed in 2024-06-04 13:21:41.645836
+all system was updated in2024-06-04 13:21:43.279377
+all system was updated in2024-06-04 13:21:44.031250
+steam layer was opened in2024-06-04 13:21:44.963976
+repair menu was opened in 2024-06-04 13:27:19.959264
+Programm interface initialized in 2024-06-04 13:28:19.453156
+repair menu was opened in 2024-06-04 13:28:35.367987
+log file was opened in 2024-06-04 13:29:48.698315
+Programm interface initialized in 2024-06-04 13:31:17.786792
+log file was opened in 2024-06-04 13:31:25.036328
+Programm interface initialized in 2024-06-04 13:32:14.749450
+log file was opened in 2024-06-04 13:32:16.994925
+Programm interface initialized in 2024-06-04 13:32:44.448875
+log file was opened in 2024-06-04 13:32:49.379068
+log file was updated in 2024-06-04 13:33:09.500859
+gas layer was opened in2024-06-04 13:33:47.425910
+gas layer was closed in 2024-06-04 13:33:48.111636
+gas layer was opened in2024-06-04 13:33:49.633892
+air layer was opened in 2024-06-04 13:33:55.025864
+gas layer was opened in2024-06-04 13:33:56.953883
+gas layer was closed in 2024-06-04 13:33:57.511659
+air layer was closed in 2024-06-04 13:33:58.250592
+air layer was opened in 2024-06-04 13:34:03.135327
+steam layer was opened in2024-06-04 13:34:03.889873
+steam layer was closed in 2024-06-04 13:34:05.150918
+gas layer was opened in2024-06-04 13:34:05.971018
+gas layer was closed in 2024-06-04 13:34:07.187755
+smoke fan layer was opened in2024-06-04 13:34:11.668702
+smoke fan layer was closed in2024-06-04 13:34:18.776290
+smoke fan layer was opened in2024-06-04 13:34:21.897913
+smoke fan layer was closed in2024-06-04 13:34:22.825384
+all system was updated in2024-06-04 13:34:25.052075
+all system was updated in2024-06-04 13:34:25.301748
+Programm interface initialized in 2024-06-04 13:37:19.365592
+gas layer was opened in2024-06-04 13:37:23.306034
+all system was updated in2024-06-04 13:37:24.466014
+all system was updated in2024-06-04 13:37:24.920179
+gas layer was closed in 2024-06-04 13:37:26.334137
+all system was updated in2024-06-04 13:37:26.984768
+all system was updated in2024-06-04 13:37:27.594616
+gas layer was opened in2024-06-04 13:37:30.481391
+gas layer was closed in 2024-06-04 13:37:31.206301
+gas layer was opened in2024-06-04 13:37:31.681774
+all system was updated in2024-06-04 13:37:33.460343
+all system was updated in2024-06-04 13:37:33.907017
+gas layer was closed in 2024-06-04 13:37:43.095021
+air layer was closed in 2024-06-04 13:37:44.337895
+air layer was opened in 2024-06-04 13:37:45.046804
+steam layer was opened in2024-06-04 13:37:46.041714
+steam layer was closed in 2024-06-04 13:37:46.853365
+gas layer was opened in2024-06-04 13:37:47.681730
+gas layer was closed in 2024-06-04 13:37:48.296113
+repair menu was opened in 2024-06-04 13:37:54.664248
+log file was opened in 2024-06-04 13:38:12.225685
+log file was updated in 2024-06-04 13:38:14.269156
+repair menu was opened in 2024-06-04 13:38:22.575325
+plotter window was initialized in 2024-06-04 13:38:25.772257
+Programm interface initialized in 2024-06-04 13:42:29.859835
+Programm interface initialized in 2024-06-04 13:46:34.096683
+smoke fan layer was opened in2024-06-04 13:46:36.834454
+smoke fan layer was closed in2024-06-04 13:46:37.452761
+smoke fan layer was opened in2024-06-04 13:46:38.170658
+smoke fan layer was closed in2024-06-04 13:46:38.863390
+Programm interface initialized in 2024-06-04 13:47:37.592320
+smoke fan layer was opened in2024-06-04 13:47:39.483343
+smoke fan layer was closed in2024-06-04 13:47:40.055146
+smoke fan layer was opened in2024-06-04 13:47:40.514348
+smoke fan layer was closed in2024-06-04 13:47:41.176020
+Programm interface initialized in 2024-06-04 13:52:13.552616
+smoke fan layer was opened in2024-06-04 13:52:15.498439
+smoke fan layer was closed in2024-06-04 13:52:17.127823
+smoke fan layer was opened in2024-06-04 13:52:17.626269
+smoke fan layer was closed in2024-06-04 13:52:18.166830
+smoke fan layer was opened in2024-06-04 13:52:20.586355
+smoke fan layer was closed in2024-06-04 13:52:21.679670
+smoke fan layer was opened in2024-06-04 13:52:22.482395
+smoke fan layer was closed in2024-06-04 13:52:23.391454
+Programm interface initialized in 2024-06-04 13:58:36.273917
+smoke fan layer was opened in2024-06-04 13:58:38.901532
+smoke fan layer was closed in2024-06-04 13:58:39.550571
+smoke fan layer was opened in2024-06-04 13:58:40.084200
+smoke fan layer was closed in2024-06-04 13:58:40.942803
+repair menu was opened in 2024-06-04 13:58:45.103671
+Programm interface initialized in 2024-06-04 13:59:02.879021
+Programm interface initialized in 2024-06-04 14:00:44.638673
+Programm interface initialized in 2024-06-04 14:02:05.726883
+log file was opened in 2024-06-04 14:02:15.028934
+plotter window was initialized in 2024-06-04 14:02:18.413542
+repair menu was opened in 2024-06-04 14:02:20.297356
+Programm interface initialized in 2024-06-04 14:05:32.694450
+steam layer was opened in2024-06-04 14:05:54.211396
+steam layer was closed in 2024-06-04 14:05:57.671275
+Programm interface initialized in 2024-06-04 14:07:27.195619
+Programm interface initialized in 2024-06-04 14:07:51.880709
+Programm interface initialized in 2024-06-04 14:08:27.456399
+gas layer was opened in2024-06-04 14:09:08.375421
+gas layer was closed in 2024-06-04 14:09:09.999143
+gas layer was opened in2024-06-04 14:09:11.651972
+Ширмовый ПП№19 window initialized in 2024-06-04 14:09:27.693529
+Ширмовый ПП№15 window initialized in 2024-06-04 14:09:43.492105
+gas layer was closed in 2024-06-04 14:09:59.031036
+steam layer was opened in2024-06-04 14:10:28.487509
+steam layer was closed in 2024-06-04 14:10:31.365905
+gas layer was opened in2024-06-04 14:10:32.752620
+gas layer was closed in 2024-06-04 14:10:34.611164
+air layer was closed in 2024-06-04 14:10:35.739529
+air layer was opened in 2024-06-04 14:10:37.085939
+gas layer was opened in2024-06-04 14:10:38.203222
+gas layer was closed in 2024-06-04 14:10:39.664147
+gas layer was opened in2024-06-04 14:10:42.123254
+Ширмовый ПП№15 window initialized in 2024-06-04 14:10:59.934872
+Ширмовый ПП№12 window initialized in 2024-06-04 14:11:10.702963
+air layer was opened in 2024-06-04 14:11:28.650949
+air layer was closed in 2024-06-04 14:11:29.818990
+air layer was opened in 2024-06-04 14:11:31.921059
+gas layer was opened in2024-06-04 14:11:33.266698
+gas layer was closed in 2024-06-04 14:11:34.015383
+smoke fan layer was opened in2024-06-04 14:11:37.980669
+smoke fan layer was closed in2024-06-04 14:11:47.167285
+smoke fan layer was opened in2024-06-04 14:11:48.268705
+smoke fan layer was closed in2024-06-04 14:11:54.544417
+gas layer was opened in2024-06-04 14:11:56.098779
+all system was updated in2024-06-04 14:11:57.448233
+all system was updated in2024-06-04 14:11:58.064489
+log file was opened in 2024-06-04 14:12:08.835007
+log file was updated in 2024-06-04 14:12:16.597592
+log file was updated in 2024-06-04 14:12:17.174309
+plotter window was initialized in 2024-06-04 14:12:23.920210
+Температура value of Ширмовый ППwas plotted in 2024-06-04 14:12:35.540191
+repair menu was opened in 2024-06-04 14:12:43.344063
+gas layer was closed in 2024-06-04 14:16:18.295783
+gas layer was opened in2024-06-04 14:16:35.159383
+gas layer was closed in 2024-06-04 14:16:35.726841
+air layer was closed in 2024-06-04 14:16:36.770933
+air layer was opened in 2024-06-04 14:16:37.702443
+steam layer was opened in2024-06-04 14:16:38.791916
+steam layer was closed in 2024-06-04 14:16:39.678727
+gas layer was opened in2024-06-04 14:16:40.635168
+gas layer was closed in 2024-06-04 14:16:41.442928
+steam layer was opened in2024-06-04 14:16:43.435004
+Ширмовый ПП№3 window initialized in 2024-06-04 14:16:54.124899
+smoke fan layer was closed in2024-06-04 14:17:07.451495
+smoke fan layer was opened in2024-06-04 14:17:08.483878
+steam layer was closed in 2024-06-04 14:17:10.200616
+gas layer was opened in2024-06-04 14:17:15.130700
+gas layer was closed in 2024-06-04 14:17:16.078210
+air layer was closed in 2024-06-04 14:17:17.186807
+air layer was opened in 2024-06-04 14:17:17.656505
+steam layer was opened in2024-06-04 14:17:19.658835
+steam layer was closed in 2024-06-04 14:17:20.272713
+smoke fan layer was opened in2024-06-04 14:17:21.850094
+smoke fan layer was closed in2024-06-04 14:17:22.401342
+gas layer was opened in2024-06-04 14:17:41.627102
+gas layer was closed in 2024-06-04 14:17:42.602271
+air layer was closed in 2024-06-04 14:17:43.778611
+air layer was opened in 2024-06-04 14:17:44.534980
+gas layer was opened in2024-06-04 14:17:45.722792
+gas layer was closed in 2024-06-04 14:17:46.468662
+steam layer was opened in2024-06-04 14:17:47.747795
+steam layer was closed in 2024-06-04 14:17:48.413848
+gas layer was opened in2024-06-04 14:17:49.731828
+Ширмовый ПП№15 window initialized in 2024-06-04 14:18:03.454158
+steam layer was closed in 2024-06-04 14:18:23.418324
+steam layer was opened in2024-06-04 14:18:23.938369
+steam layer was closed in 2024-06-04 14:18:24.852755
+gas layer was opened in2024-06-04 14:18:25.819652
+gas layer was closed in 2024-06-04 14:18:26.409397
+smoke fan layer was opened in2024-06-04 14:18:29.892970
+smoke fan layer was closed in2024-06-04 14:18:34.095307
+smoke fan layer was opened in2024-06-04 14:18:34.979930
+smoke fan layer was closed in2024-06-04 14:18:39.792958
+gas layer was opened in2024-06-04 14:18:41.599798
+all system was updated in2024-06-04 14:18:42.792132
+all system was updated in2024-06-04 14:18:43.334059
+log file was opened in 2024-06-04 14:18:48.915854
+log file was updated in 2024-06-04 14:18:52.709251
+plotter window was initialized in 2024-06-04 14:18:57.016079
+Давление value of Потолочно-настенный ППwas plotted in 2024-06-04 14:19:07.929834
+repair menu was opened in 2024-06-04 14:19:13.502161
+gas layer was closed in 2024-06-04 14:20:13.944981
+gas layer was opened in2024-06-04 14:20:38.699542
+gas layer was closed in 2024-06-04 14:20:39.321846
+air layer was closed in 2024-06-04 14:20:39.930608
+air layer was opened in 2024-06-04 14:20:40.471268
+gas layer was opened in2024-06-04 14:20:41.441250
+gas layer was closed in 2024-06-04 14:20:41.947315
+steam layer was opened in2024-06-04 14:20:42.738527
+steam layer was closed in 2024-06-04 14:20:43.285917
+gas layer was opened in2024-06-04 14:20:45.338841
+Ширмовый ПП№15 window initialized in 2024-06-04 14:20:59.316826
+gas layer was closed in 2024-06-04 14:21:08.231955
+smoke fan layer was opened in2024-06-04 14:21:10.988816
+smoke fan layer was closed in2024-06-04 14:21:15.042841
+smoke fan layer was opened in2024-06-04 14:21:17.507290
+smoke fan layer was closed in2024-06-04 14:21:18.585043
+all system was updated in2024-06-04 14:21:21.072669
+all system was updated in2024-06-04 14:21:21.457147
+log file was opened in 2024-06-04 14:21:27.739238
+log file was updated in 2024-06-04 14:21:30.221803
+plotter window was initialized in 2024-06-04 14:21:33.676676
+Расход value of Потолочно-настенный ППwas plotted in 2024-06-04 14:21:43.637010
+repair menu was opened in 2024-06-04 14:21:47.585095
+gas layer was opened in2024-06-04 14:23:41.362565
+gas layer was closed in 2024-06-04 14:23:42.033908
+gas layer was opened in2024-06-04 14:23:43.139066
+gas layer was closed in 2024-06-04 14:23:50.038018
+gas layer was opened in2024-06-04 14:23:50.226702
+gas layer was closed in 2024-06-04 14:23:50.840550
+gas layer was opened in2024-06-04 14:23:51.042591
+gas layer was closed in 2024-06-04 14:24:03.479507
+gas layer was opened in2024-06-04 14:24:17.051460
+gas layer was closed in 2024-06-04 14:24:17.472790
+air layer was closed in 2024-06-04 14:24:18.611072
+air layer was opened in 2024-06-04 14:24:19.144042
+gas layer was opened in2024-06-04 14:24:20.250924
+gas layer was closed in 2024-06-04 14:24:20.836603
+steam layer was opened in2024-06-04 14:24:21.762972
+steam layer was closed in 2024-06-04 14:24:22.422192
+gas layer was opened in2024-06-04 14:24:24.315075
+Ширмовый ПП№15 window initialized in 2024-06-04 14:24:35.252801
+gas layer was closed in 2024-06-04 14:24:48.315776
+smoke fan layer was opened in2024-06-04 14:24:48.964650
+smoke fan layer was closed in2024-06-04 14:24:51.878697
+smoke fan layer was opened in2024-06-04 14:24:54.659863
+smoke fan layer was closed in2024-06-04 14:24:55.784864
+all system was updated in2024-06-04 14:24:58.261687
+all system was updated in2024-06-04 14:24:58.918623
+log file was opened in 2024-06-04 14:25:01.254220
+plotter window was initialized in 2024-06-04 14:25:13.155401
+Давление value of Конвективный ППwas plotted in 2024-06-04 14:25:22.787262
+repair menu was opened in 2024-06-04 14:25:28.371425
+Programm interface initialized in 2024-06-04 14:26:04.359825
+gas layer was opened in2024-06-04 14:26:23.546765
+gas layer was closed in 2024-06-04 14:26:24.209005
+gas layer was opened in2024-06-04 14:26:25.218156
+gas layer was closed in 2024-06-04 14:26:26.105047
+air layer was closed in 2024-06-04 14:26:27.402073
+air layer was opened in 2024-06-04 14:26:28.134761
+steam layer was opened in2024-06-04 14:26:29.202886
+steam layer was closed in 2024-06-04 14:26:29.957590
+gas layer was opened in2024-06-04 14:26:31.890641
+Ширмовый ПП№15 window initialized in 2024-06-04 14:26:40.999620
+gas layer was closed in 2024-06-04 14:26:49.247076
+smoke fan layer was opened in2024-06-04 14:26:51.851955
+smoke fan layer was closed in2024-06-04 14:26:55.808294
+smoke fan layer was opened in2024-06-04 14:26:59.483236
+smoke fan layer was closed in2024-06-04 14:27:03.145489
+log file was opened in 2024-06-04 14:27:09.740816
+log file was updated in 2024-06-04 14:27:12.330553
+plotter window was initialized in 2024-06-04 14:27:16.149954
+Давление value of Потолочно-настенный ППwas plotted in 2024-06-04 14:27:24.966635
+repair menu was opened in 2024-06-04 14:27:30.136057
+gas layer was opened in2024-06-04 14:28:25.026661
+gas layer was closed in 2024-06-04 14:28:25.519360
+air layer was closed in 2024-06-04 14:28:26.306783
+air layer was opened in 2024-06-04 14:28:26.814546
+steam layer was opened in2024-06-04 14:28:27.610111
+steam layer was closed in 2024-06-04 14:28:28.173342
+gas layer was opened in2024-06-04 14:28:29.010840
+gas layer was closed in 2024-06-04 14:28:29.579324
+gas layer was opened in2024-06-04 14:28:30.522953
+Ширмовый ПП№15 window initialized in 2024-06-04 14:28:39.133836
+gas layer was closed in 2024-06-04 14:28:48.168673
+smoke fan layer was opened in2024-06-04 14:28:49.274539
+smoke fan layer was closed in2024-06-04 14:28:51.943040
+smoke fan layer was opened in2024-06-04 14:28:54.739716
+gas layer was closed in 2024-06-04 14:29:24.065425
+smoke fan layer was opened in2024-06-04 14:29:25.642438
+smoke fan layer was closed in2024-06-04 14:29:25.986377
+gas layer was opened in2024-06-04 14:29:33.366911
+gas layer was closed in 2024-06-04 14:29:33.855797
+air layer was closed in 2024-06-04 14:29:34.522649
+air layer was opened in 2024-06-04 14:29:34.902512
+steam layer was opened in2024-06-04 14:29:35.602605
+steam layer was closed in 2024-06-04 14:29:36.119273
+gas layer was opened in2024-06-04 14:29:36.785581
+gas layer was closed in 2024-06-04 14:29:37.201756
+gas layer was opened in2024-06-04 14:29:37.882914
+Ширмовый ПП№15 window initialized in 2024-06-04 14:29:46.003251
+smoke fan layer was closed in2024-06-04 14:29:55.609676
+gas layer was opened in2024-06-04 14:29:57.186619
+gas layer was closed in 2024-06-04 14:29:57.727392
+smoke fan layer was opened in2024-06-04 14:30:00.467619
+smoke fan layer was closed in2024-06-04 14:30:03.745512
+smoke fan layer was opened in2024-06-04 14:30:06.232547
+smoke fan layer was closed in2024-06-04 14:30:10.334667
+gas layer was opened in2024-06-04 14:30:13.570512
+all system was updated in2024-06-04 14:30:16.234622
+all system was updated in2024-06-04 14:30:16.541592
+log file was opened in 2024-06-04 14:30:19.098950
+log file was updated in 2024-06-04 14:30:22.421095
+plotter window was initialized in 2024-06-04 14:30:25.598832
+Давление value of Потолочно-настенный ППwas plotted in 2024-06-04 14:30:35.341444
+repair menu was opened in 2024-06-04 14:30:39.271134
+Programm interface initialized in 2024-06-04 14:36:03.667906
+gas layer was opened in2024-06-04 14:36:24.809580
+gas layer was closed in 2024-06-04 14:36:25.439054
+air layer was closed in 2024-06-04 14:36:26.303306
+air layer was opened in 2024-06-04 14:36:26.957421
+steam layer was opened in2024-06-04 14:36:28.090252
+steam layer was closed in 2024-06-04 14:36:28.885394
+gas layer was opened in2024-06-04 14:36:29.737308
+gas layer was closed in 2024-06-04 14:36:30.663229
+gas layer was opened in2024-06-04 14:36:32.042678
+Ширмовый ПП№15 window initialized in 2024-06-04 14:36:45.991102
+gas layer was closed in 2024-06-04 14:36:57.230477
+air layer was closed in 2024-06-04 14:36:58.689353
+air layer was opened in 2024-06-04 14:36:59.387121
+gas layer was opened in2024-06-04 14:37:00.850624
+gas layer was closed in 2024-06-04 14:37:01.411272
+steam layer was opened in2024-06-04 14:37:02.489586
+steam layer was closed in 2024-06-04 14:37:03.251440
+smoke fan layer was opened in2024-06-04 14:37:07.020168
+smoke fan layer was closed in2024-06-04 14:37:10.159789
+smoke fan layer was opened in2024-06-04 14:37:13.371666
+smoke fan layer was closed in2024-06-04 14:37:17.102700
+gas layer was opened in2024-06-04 14:37:19.370107
+all system was updated in2024-06-04 14:37:21.653836
+all system was updated in2024-06-04 14:37:22.003908
+log file was opened in 2024-06-04 14:37:24.092171
+log file was updated in 2024-06-04 14:37:28.692964
+plotter window was initialized in 2024-06-04 14:37:32.435365
+Давление value of Потолочно-настенный ППwas plotted in 2024-06-04 14:37:42.439183
+repair menu was opened in 2024-06-04 14:37:46.830781
+gas layer was closed in 2024-06-04 14:38:58.991159
+gas layer was opened in2024-06-04 14:39:20.401801
+gas layer was closed in 2024-06-04 14:39:21.730252
+gas layer was opened in2024-06-04 14:39:22.769997
+gas layer was closed in 2024-06-04 14:39:23.353084
+air layer was closed in 2024-06-04 14:39:24.449835
+air layer was opened in 2024-06-04 14:39:25.158553
+steam layer was opened in2024-06-04 14:39:25.993075
+steam layer was closed in 2024-06-04 14:39:26.600609
+gas layer was opened in2024-06-04 14:39:27.361866
+gas layer was closed in 2024-06-04 14:39:27.897344
+gas layer was opened in2024-06-04 14:39:28.538453
+Ширмовый ПП№15 window initialized in 2024-06-04 14:39:37.183937
+gas layer was closed in 2024-06-04 14:39:43.854755
+smoke fan layer was opened in2024-06-04 14:39:45.939083
+smoke fan layer was closed in2024-06-04 14:39:48.421723
+smoke fan layer was opened in2024-06-04 14:39:50.859353
+smoke fan layer was closed in2024-06-04 14:39:53.046405
+gas layer was opened in2024-06-04 14:39:54.274147
+all system was updated in2024-06-04 14:39:56.141970
+all system was updated in2024-06-04 14:39:56.476244
+log file was opened in 2024-06-04 14:39:58.355704
+log file was updated in 2024-06-04 14:40:00.740398
+plotter window was initialized in 2024-06-04 14:40:03.581676
+Давление value of Потолочно-настенный ППwas plotted in 2024-06-04 14:40:12.453785
+repair menu was opened in 2024-06-04 14:40:14.649466
+Programm interface initialized in 2024-06-08 15:38:54.408349
+Programm interface initialized in 2024-06-08 15:40:43.404119
+Programm interface initialized in 2024-06-08 15:42:46.554430
+Programm interface initialized in 2024-06-08 15:46:35.933684
+gas layer was opened in2024-06-08 15:46:38.918467
+air layer was opened in 2024-06-08 15:46:40.285860
+air layer was closed in 2024-06-08 15:46:40.509838
+Ширмовый ПП№20 window initialized in 2024-06-08 15:46:48.193004
+Ширмовый ПП№20 window initialized in 2024-06-08 15:47:03.493961
+Ширмовый ПП№14 window initialized in 2024-06-08 15:54:20.817117
+Ширмовый ПП№13 window initialized in 2024-06-08 15:54:35.198997
+Ширмовый ПП№12 window initialized in 2024-06-08 15:54:40.969307
+Ширмовый ПП№17 window initialized in 2024-06-08 15:54:58.735591
+Ширмовый ПП№16 window initialized in 2024-06-08 15:55:04.537689
+Ширмовый ПП№15 window initialized in 2024-06-08 15:55:09.671104
+Ширмовый ПП№20 window initialized in 2024-06-08 15:55:25.927468
+Ширмовый ПП№18 window initialized in 2024-06-08 15:55:34.079220
+Ширмовый ПП№18 window initialized in 2024-06-08 15:56:32.241032
+Ширмовый ПП№19 window initialized in 2024-06-08 15:56:37.974175
+Ширмовый ПП№20 window initialized in 2024-06-08 15:56:49.045371
+Programm interface initialized in 2024-06-08 15:57:44.725458
+smoke fan layer was opened in2024-06-08 15:57:57.767325
+smoke fan layer was closed in2024-06-08 15:59:07.717313
+plotter window was initialized in 2024-06-08 15:59:11.352569
+Расход value of Паропровод на турбинуwas plotted in 2024-06-08 15:59:21.709130
+log file was opened in 2024-06-08 15:59:24.926422
+log file was updated in 2024-06-08 15:59:29.497089
+log file was opened in 2024-06-08 15:59:56.775765
+plotter window was initialized in 2024-06-08 15:59:58.953158
+Расход value of Конвективный ППwas plotted in 2024-06-08 16:00:07.630382
+repair menu was opened in 2024-06-08 16:00:12.867918
+log file was updated in 2024-06-08 16:00:22.456252
+Programm interface initialized in 2024-06-24 06:20:14.070329
+gas layer was opened in2024-06-24 06:22:41.579019
+Programm interface initialized in 2024-06-24 06:24:26.936287
+gas layer was opened in2024-06-24 06:24:33.914917
+Programm interface initialized in 2024-06-24 06:25:40.166167
+gas layer was opened in2024-06-24 06:25:44.330546
+Ширмовый ПП№15 window initialized in 2024-06-24 06:26:08.687401
+Ширмовый ПП№15 window initialized in 2024-06-24 06:28:15.350931
+Ширмовый ПП№15 window initialized in 2024-06-24 06:28:53.491297
+Programm interface initialized in 2024-06-24 06:58:26.778687
+gas layer was opened in2024-06-24 06:58:37.433700
+Ширмовый ПП№15 window initialized in 2024-06-24 06:59:09.895479
